@@ -9,7 +9,7 @@ This is the public issue tracker for [Spotify's Web Playback SDK](https://beta.d
 **If you want to show your support for an existing feature request, please add a [thumbs up reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) instead of commenting  "_+1_".** This way the creator of the feature request doesn't get bombarded with notifications.
 
 ## Issues in the Web API or mobile SDKs
-For bugs and features related to the Spotify Web API, please visit the repository for the [Web API]((https://github.com/spotify/web-api/). For bugs and features related to the mobile SDKs, please visit the repositories for the [Android SDK](https://github.com/spotify/android-sdk/) or the [iOS SDK](https://github.com/spotify/ios-sdk/).
+For bugs and features related to the Spotify Web API, please visit the repository for the [Web API](https://github.com/spotify/web-api/). For bugs and features related to the mobile SDKs, please visit the repositories for the [Android SDK](https://github.com/spotify/android-sdk/) or the [iOS SDK](https://github.com/spotify/ios-sdk/).
 
 ## Other support
 We refer to [Stack Overflow](http://stackoverflow.com/questions/tagged/spotify) for programming related issues. Remember to add the `spotify` tag to your question.
