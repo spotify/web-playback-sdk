@@ -22,7 +22,7 @@ If you want to show your support for suggestions or requests, please add a [thum
 
 ## Creating an issue
 
-If you’ve found a bug in the Web API, or have ideas on how we could improve it, please [create a GitHub issue and fill out the required information][New GitHub Issue]. It’s greatly appreciated.
+If you’ve found a bug in the Web Playback SDK, or have ideas on how we could improve it, please [create a GitHub issue and fill out the required information][New GitHub Issue]. It’s greatly appreciated.
 
 We will triage the request and mark it as one of the following types:
 
