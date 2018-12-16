@@ -1,0 +1,54 @@
+× We - and our partners - use cookies to deliver our services and to show you ads based on your interests. By using our website, you agree to the use of cookies as described in our Cookie Policy.
+Hi! Please see our updated Developer Terms of Service (Updated 11 December 2018).
+Toggle navigation
+
+Spotify for Developers
+Play Button
+Right-click any song, album, artist, playlist, podcast or episode in the Spotify player and select “Share”. Click on 'Copy Link' or 'Copy Spotify URI' to copy the Spotify Link or URI:
+select-track-link
+Paste the link or URI in the field below:
+
+spotify:album:1DFixLWuPkv3KT3TnV35m3
+(For example, spotify:album:1DFixLWuPkv3KT3TnV35m3 or https://open.spotify.com/album/4RuzGKLG99XctuBMBkFFOC.)
+Copy the code below and paste it on your website.
+
+<iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Preview
+
+Options
+Size:
+Large (default)
+
+300
+x 
+380
+pixels
+Compact (default)
+
+300
+x 
+80
+pixels
+DOCS
+General
+Web API
+Web Playback SDK
+iOS
+Android
+Widgets
+COMMUNITY
+News
+Showcase
+USE CASES
+Mobile Apps
+Hardware
+SUPPORT
+DISCOVER
+CONSOLE
+DASHBOARD
+USE CASES
+DESIGN & BRANDING GUIDELINES
+LEGAL
+Terms of Service
+Third Party Licenses
+LegalCookies© 2018 Spotify AB
